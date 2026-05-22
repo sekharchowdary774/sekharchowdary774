@@ -265,7 +265,6 @@ Spring Boot | WebSockets | PostgreSQL | React
 </a>
 
 </p>
----
 
 # 🌐 Connect With Me
 
