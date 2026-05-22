@@ -285,7 +285,6 @@ Spring Boot | WebSockets | PostgreSQL | React
 
 </p>
 
----
 
 # ⚡ Fun Fact
 
@@ -299,4 +298,4 @@ while(!success){
 
 ---
 
-<h3 align="center">✨ "Code • Build • Scale • Repeat" ✨</h3>
+<h3 align="center"> Code • Build • Scale • Repeat </h3>
