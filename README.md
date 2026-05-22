@@ -215,12 +215,56 @@ Spring Boot | WebSockets | PostgreSQL | React
 
 ---
 
-# 📈 Problem Solving
+# 📈 Problem Solving & Coding Profiles
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/your_leetcode_username?theme=dark&font=Nunito&ext=contest"/>
+
+<a href="https://leetcode.com/u/sekhar__12/" target="_blank">
+  <img width="48%" src="https://leetcard.jacoblin.cool/sekhar__12?theme=dark&font=Nunito&ext=contest"/>
+</a>
+
+<a href="https://leetcode.com/u/sekhar__12/" target="_blank">
+  <img width="48%" src="https://leetcode-stats-six.vercel.app/?username=sekhar__12&theme=dark"/>
+</a>
+
 </p>
 
+---
+
+<p align="center">
+
+<a href="https://leetcode.com/u/sekhar__12/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
+
+<div align="center">
+
+### 🧠 DSA Highlights
+
+🔥 500+ Problems Solved  
+⚡ Strong in Arrays, DP, Graphs & Trees  
+🏆 Consistent Problem Solver  
+🚀 Active Competitive Programming Learner  
+
+</div>
+
+---
+
+# 🏅 Coding Platforms
+
+<p align="center">
+
+<a href="https://leetcode.com/u/sekhar__12/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</p>
 ---
 
 # 🌐 Connect With Me
